@@ -1,1 +1,1 @@
-# simple-ASCII-converter
+This is actually for a birthday gift for a person I admire, thought it would be "original" to give them a letter with numbers on it so when they conver it to the respected letter and symbols, it will reveal a dumb happy birthday video on Youtube.   
