@@ -1,4 +1,4 @@
-print("if you want to get the letter of your value type : letter\nif you want to get a value from your letter type : value")
+print("if you want to get the letter of your value, type : letter\nif you want to get a value from your letter, type : value")
 
 z = str(input(""))
 
